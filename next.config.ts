@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   output: "export",
   cacheComponents: false,
-  partialPrefetching: true,
+  partialPrefetching: false,
   turbopack: {
     rules: {
       "*.css": {
