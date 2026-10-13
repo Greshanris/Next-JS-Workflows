@@ -27,4 +27,5 @@ jobs:
       - name: Upload Build on Artifacts
         uses: actions/download-artifact@v8.0.2
         with:
+          name: nextjs-build
           path: out/
