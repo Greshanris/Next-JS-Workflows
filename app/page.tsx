@@ -20,6 +20,9 @@ export default function Home() {
             </code>{" "}
             file.
           </h1>
+          <h2 className="max-w-md text-xl font-semibold leading-8 text-zinc-900 dark:text-zinc-50 hover:underline hover:cursor-pointer transform transition duration-300 ease-in-out hover:scale-105" >
+            I have already edited the page.tsx file.
+          </h2>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
             <a
