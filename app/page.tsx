@@ -18,7 +18,7 @@ export default function Home() {
             <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
               page.tsx
             </code>{" "}
-            file.
+            file. Changing file.
           </h1>
           <h2 className="max-w-md text-xl font-semibold leading-8 text-zinc-900 dark:text-zinc-50 hover:underline hover:cursor-pointer transform transition duration-300 ease-in-out hover:scale-105" >
             I have already edited the page.tsx file.
